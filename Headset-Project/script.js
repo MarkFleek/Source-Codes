@@ -1,9 +1,8 @@
 function changeColor(color){
     document.body.style.backgroundColor= color
-    let src= './images/'
 
     const img= document.getElementById("img")
-    img.src= src + color + '.png'
+    img.src= color + '.png'
 
     document.body.classList = ""
     if(color == 'blue'){
