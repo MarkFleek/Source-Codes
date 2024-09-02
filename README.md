@@ -25,10 +25,9 @@ Aplique o conhecimento adquirido nos seus próprios projetos!
 🏆 Contribuições
 Estamos sempre abertos a novas ideias e colaborações! Se você tem algo para compartilhar, seja uma melhoria em um código existente ou um novo exemplo que gostaria de adicionar, fique à vontade para abrir uma issue ou enviar um pull request. Vamos construir a comunidade Dev Fleek juntos! 🤝
 
+
 📞 Conecte-se Conosco
-
 Quer ficar por dentro de todas as novidades? Siga-nos nas redes sociais e acompanhe nossos conteúdos diários:
-
 
 📸 Instagram: @dev.fleek
 
