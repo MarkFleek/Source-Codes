@@ -29,7 +29,7 @@ Estamos sempre abertos a novas ideias e colaborações! Se você tem algo para c
 
 Quer ficar por dentro de todas as novidades? Siga-nos nas redes sociais e acompanhe nossos conteúdos diários:
 
-- 🌐 Email: [Dev Fleek](mailto:markfleekpt@gmail.com)
+- 🌐 Email: markfleekpt@gmail.com
 - 📸 Instagram: [@dev.fleek](https://www.instagram.com/dev.fleek)
 
 ---
