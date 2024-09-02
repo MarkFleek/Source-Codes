@@ -8,7 +8,7 @@ Na Dev Fleek, nossa missão é simplificar o aprendizado de tecnologia e desenvo
 
 
 
-💻 O que Você Encontra Aqui
+<strong>💻 O que Você Encontra Aqui</strong>
 
 🌟 Exemplos de Código: Repositórios organizados com exemplos práticos, que abrangem desde HTML e CSS até as mais recentes tecnologias de JavaScript e frameworks modernos.
 
